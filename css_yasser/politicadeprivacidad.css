@@ -1,0 +1,261 @@
+
+
+.política{
+    width: 1200px;
+    padding: 10px;
+    margin: auto;
+    margin-top: 5px;
+
+}
+.lista1{
+    padding: 5px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    margin-left: 30px;
+    list-style: none;
+    padding: 10px;
+}
+.lista0{
+    padding: 5px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    margin-left: 30px;
+    padding: 10px;
+}
+span{
+    font-weight: bold;
+    position: relative;
+    bottom: 15px;
+    left: 40px;;
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+
+  
+   
+}
+
+p{
+
+    padding: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+}
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 40px;
+    padding: 5px;
+  
+}
+h2{
+    padding: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    color: rgb(253, 93, 0);
+
+
+}
+  
+
+
+.container {
+    max-width: 1000px;
+    margin: 0 auto;
+    padding: 50px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+}
+
+
+  
+
+
+footer {
+    background-color: rgb(49, 49, 49);
+    color: #fff;
+    padding: 20px 0;
+    width: 1703px; 
+    margin-top: 15px;
+    margin-left: 100px;
+  }
+  
+.contenedor {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    max-width: 1100px;
+    margin: 0 auto;
+  }
+  
+.copyright{
+    margin: 0;
+    font-size: 15px;
+    font-family: 'Times New Roman', Times, serif
+  }
+  
+  footer ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+  }
+  
+  footer li {
+    margin-right: 20px;
+  }
+  
+  footer a {
+    color: #fff;
+    font-size: 15px;
+    text-decoration: none;
+    padding: 5px;
+  }
+  .menu{
+    height:60px;
+    background-color: rgb(49, 49, 49);
+    width: 1700px;
+    position: relative;
+    top: 10px;
+    margin: auto;
+   
+}
+
+
+*{margin:0;padding:0;box-sizing:border-box;}  
+nav a{
+    text-decoration:none;
+    color:inherit;
+    font-size:15px;
+    color:inherit;
+    font-family: "Gill Sans Extrabold", Helvetica, sans-serif 
+}
+    
+nav a{
+    display:inline-block;
+    width:152px;
+    height:60px;
+    padding:23px 10px;
+    background-color: rgb(49, 49, 49);
+    cursor: pointer;
+    position: relative;
+
+
+    text-align:center;
+    color:#fff;
+}
+#logo{
+    font-style: initial;
+    background-color: rgb(253, 93, 0);
+    cursor: pointer;
+    position: relative;
+    width:65px;
+    height:60px;
+    font-weight: bold;
+
+
+
+    text-align: left;
+    color:rgb(255, 255, 255);
+
+}
+nav a{
+    margin-left: 30px;
+    animation: forwards;
+}
+            
+nav a:hover{
+    background-color:rgb(80, 80, 80); 
+    
+    color:rgb(255, 255, 255);    
+    transition: .2s;
+    
+   
+    
+}
+a div:hover{
+    background-color:rgb(238, 146, 94);
+    color:c
+}
+#cuenta{
+    position: relative;
+    bottom: 23px;
+    left: px;
+}
+#perfil{
+    float: right;
+    position: relative;
+    bottom: 92px;
+}
+.partedrch{
+    float: right;
+    position: relative;
+    bottom: 92px;
+}
+
+nav li>ul{
+    display:none;
+ }
+  
+
+
+.box{
+    margin: 100px auto;
+    width: 300px;
+    height: 100px;
+ }
+.container-1{
+    width: 300px;
+    vertical-align: middle;
+    white-space: nowrap;
+    position: relative
+}
+
+
+#search-box {
+position: relative;
+width: 600px;
+margin: 0;
+left: 700px;
+bottom: 45px;
+  }
+ #search-form {
+height: 32px;
+border: 1px solid #cbf3ee;
+-webkit-border-radius: 15px;
+-moz-border-radius: 15px;
+border-radius: 15px;
+background-color: #fff;
+overflow: hidden;
+ }
+#search-text {
+font-size: 14px;
+color: #ddd;
+border-width: 0;
+background: transparent;
+}
+    
+#search-box input[type="text"] {
+width: 90%;
+padding: 8px 0 12px 1em;
+color: #333;
+outline: none;
+}
+#search-button {
+position: absolute;
+top: 0;
+right: 0;
+height: 31px;
+width: 60px;
+font-size: 14px;
+color: #656;
+text-align: center;
+line-height: 4px;
+border-width: 0;
+background-color: #ffffff;
+-webkit-border-radius: 0px 15px 15px;
+-moz-border-radius: 0px 15px 15px 15px;
+border-radius: 15px 15px 15px 15px;
+cursor: pointer;
+
+
+}
+  
